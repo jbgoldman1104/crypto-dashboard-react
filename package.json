@@ -1,0 +1,31 @@
+{
+  "name": "react-dashboard",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "cryptocompare": "^0.5.0",
+    "fuzzy": "^0.1.3",
+    "lodash": "^4.17.11",
+    "moment": "^2.22.2",
+    "react": "^16.6.0",
+    "react-dom": "^16.6.0",
+    "react-highcharts": "^16.0.2",
+    "react-scripts": "2.0.5",
+    "styled-components": "^4.0.2"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": "react-app"
+  },
+  "browserslist": [
+    ">0.2%",
+    "not dead",
+    "not ie <= 11",
+    "not op_mini all"
+  ]
+}
