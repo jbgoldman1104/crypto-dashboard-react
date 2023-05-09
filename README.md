@@ -1,3 +1,4 @@
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ### Benefits of choosing create-react-app
 * Official React.js starter project by Facebook
