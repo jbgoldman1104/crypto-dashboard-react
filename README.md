@@ -3,12 +3,6 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 ### Benefits of choosing create-react-app
 * Official React.js starter project by Facebook
 * "Create React apps with no build configuration"
-* Only 3 commands to an enterprise-grade web application
-  
-    - npm create-react-app react-dashboard
-    - cd react-dashboard
-    - npm start
-
 * hot reloading by default
 * immediately start coding
 * command for optimized production build
